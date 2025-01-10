@@ -2,7 +2,7 @@
 
 [1. Selection Sort]()
 
-[2. Bubble Sort]()
+[2. Bubble Sort](https://github.com/ashishpdeshpande/Algorithms/tree/main/Bubble%20Sort%20)
 
 [3. Insertion Sort]()
 
