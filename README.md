@@ -8,4 +8,4 @@
 
 [4. Merge Sort]()
 
-[5. Quick Sort]()
+[5. Quick Sort](https://github.com/ashishpdeshpande/Algorithms/tree/main/Quick%20Sort%20)
