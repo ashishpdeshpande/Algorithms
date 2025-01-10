@@ -1,6 +1,6 @@
 # Algorithms
 
-[1. Selection Sort]()
+[1. Selection Sort](https://github.com/ashishpdeshpande/Algorithms/tree/main/Selection%20Sort%20)
 
 [2. Bubble Sort](https://github.com/ashishpdeshpande/Algorithms/tree/main/Bubble%20Sort%20)
 
